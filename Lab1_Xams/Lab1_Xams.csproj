@@ -48,8 +48,10 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SourceCode\Holiday.cs" />
-    <Compile Include="SourceCode\TestHoliday.cs" />
+    <Compile Include="0_SourceCode\Holiday.cs" />
+    <Compile Include="0_SourceCode\TestHoliday.cs" />
+    <Compile Include="1_Constructor DI\Holiday.cs" />
+    <Compile Include="1_Constructor DI\TestHoliday.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Lab1_Xams.SourceCode
+namespace Lab1_Xams._0_SourceCode
 {
     [TestClass]
     public class TestHoliday

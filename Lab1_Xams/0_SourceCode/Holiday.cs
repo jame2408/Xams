@@ -1,16 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Lab1_Xams.SourceCode
+namespace Lab1_Xams._0_SourceCode
 {
     public class Holiday
     {
         public string IsTodayXmas()
         {
-            if (DateTime.Now.Year == 12 && DateTime.Now.Month == 25)
+            if (DateTime.Now.Month == 12 && DateTime.Now.Day == 25)
             {
                 return "Happy Xmas!";
             }
