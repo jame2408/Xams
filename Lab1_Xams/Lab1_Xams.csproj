@@ -52,6 +52,8 @@
     <Compile Include="0_SourceCode\TestHoliday.cs" />
     <Compile Include="1_Constructor DI\Holiday.cs" />
     <Compile Include="1_Constructor DI\TestHoliday.cs" />
+    <Compile Include="2_Extract And Override\Holiday.cs" />
+    <Compile Include="2_Extract And Override\TestHoliday.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
